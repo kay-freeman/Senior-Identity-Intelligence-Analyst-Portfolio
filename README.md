@@ -1,7 +1,7 @@
 # Senior Identity Intelligence Analyst Portfolio  
 
 ## 🏆 By Kaylah Freeman-Thomas  
-📍 Houston, TX | 🌍 Remote | 📧 [kaylahfreeman@outlook.com](mailto:kaylahfreeman@outlook.com)  
+📍 Houston, TX | 📧 [kaylahfreeman@outlook.com](mailto:kaylahfreeman@outlook.com)  
 
 ---
 
