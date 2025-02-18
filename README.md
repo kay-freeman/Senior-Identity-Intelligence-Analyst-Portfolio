@@ -51,9 +51,3 @@ This repository is for **demonstration and educational purposes only**.
 - All **data is simulated** and does **not** represent real-world threats or organizations.  
 - The scripts and reports included **do not interact with real dark web sources** and should **not** be used for unauthorized activities.  
 - The intent of this portfolio is to showcase **identity intelligence skills** using publicly available methodologies.  
-
----
-
-## **📞 Let's Connect**  
-📧 [kaylahfreeman@outlook.com](mailto:kaylahfreeman@outlook.com)  
-🔗 [LinkedIn](#) (Insert your LinkedIn profile link here)  
